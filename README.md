@@ -20,14 +20,7 @@ This project aims to:
 
 ---
 
-## Project Structure
-data/                # Raw and cleaned datasets
-notebooks/           # Jupyter notebook with full analysis
-plots/               # Exported figures and graphs
-README.md            # Documentation
-requirements.txt     # Dependencies
-
-## Technologies Used
+## Tools & Libraries
 
 - Python  
 - Pandas  
