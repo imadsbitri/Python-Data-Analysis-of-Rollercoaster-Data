@@ -64,3 +64,6 @@ This project aims to:
 ## Visualizations
 
 ![Image Description](a.png)
+![Image Description](b.png)
+![Image Description](c.png)
+![Image Description](d.png)
