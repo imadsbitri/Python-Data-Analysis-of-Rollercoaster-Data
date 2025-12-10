@@ -63,4 +63,4 @@ This project aims to:
 
 ## Visualizations
 
-Add your plot images here:
+![Image Description](a.png)
